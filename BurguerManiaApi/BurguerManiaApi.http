@@ -1,0 +1,6 @@
+@BurguerManiaApi_HostAddress = http://localhost:5208
+
+GET {{BurguerManiaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
